@@ -1,0 +1,19 @@
+body{background: rgb(94,8,99);
+    background: linear-gradient(90deg, rgba(94,8,99,0.9303944315545244) 2%, rgba(197,23,203,1) 49%, rgba(106,27,144,1) 89%);
+
+}
+
+
+.caique{ 
+    text-align: center;
+    font-size: 50px;
+    
+}
+.botao{
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+.botao:hover{ 
+    text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+body{background: rgb(112, 7, 117);
+    background: linear-gradient(90deg, rgba(94,8,99,0.9303944315545244) 2%, rgba(197,23,203,1) 49%, rgba(106,27,144,1) 89%);
+height: 100vh;
+}
+.botao{
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+img{
+    padding: 100px;
+    justify-items: center;
+    width: 700px;
+
+}
